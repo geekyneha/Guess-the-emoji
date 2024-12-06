@@ -13,4 +13,4 @@ A fun and interactive game where players guess the answer based on the emoji pai
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/guess-the-emoji.git
+   git clone https://github.com/geekyneha/guess-the-emoji.git
