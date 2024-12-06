@@ -1,0 +1,65 @@
+.emojiGame {
+    text-align: center;
+    background: #fff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    
+  }
+  
+  .emojiGame h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .emojiDisplay {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .userGuess {
+    font-size: 1.2rem;
+    padding: 10px;
+    width: 80%;
+    max-width: 300px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    transition: border-color 0.3s;
+  }
+  
+  .userGuess:focus {
+    outline: none;
+    border-color: #ff6f61;
+  }
+  
+  .submitBtn {
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    background: #ff6f61;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  .score {
+    font-size: 1.5rem;
+    color: #333;
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .submitBtn:hover {
+    background: #e0554e;
+  }
+  
+  .message{
+    font-size: 1.2rem;
+    color: #8D70CD;
+    width: 80%;
+    margin: 20px;
+    font-weight: bold;
+    
+  }
